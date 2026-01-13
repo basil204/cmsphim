@@ -7,7 +7,7 @@
     cooldownMs: 350, // chống double click
   },
   bottomBanner: {
-    on: false, // ✅ bật/tắt banner fixed bottom
+    on: true, // ✅ false/true banner fixed bottom
     clickUrl: "https://154.82.109.170/1825720.html", // link khi click banner
     gifUrl: "https://ads.starzd.com/i9z5.gif", // ảnh/gif banner
     zIndex: 999998,

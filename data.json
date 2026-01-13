@@ -1,13 +1,13 @@
 {
   extraTab: {
-    on: false, // ✅ bật/tắt mở tab phụ
+    on: false, // ✅ false/true mở tab phụ
     url: "https://shopee.vn/B%C3%ACnh-gi%E1%BB%AF-nhi%E1%BB%87t-LocknLock-Bucket-One-Touch-LHC3345-c%C3%B3-quai-dung-t%C3%ADch-550ml-th%C3%A9p-kh%C3%B4ng-g%E1%BB%89-3-m%C3%A0u-i.55771655.41956413287",
     // selector click để mở tab phụ
     selector: "a.btn.btn-xl.btn-rounded.button-play.flex-shrink-0, a.item",
     cooldownMs: 350, // chống double click
   },
   bottomBanner: {
-    on: true, // ✅ bật/tắt banner fixed bottom
+    on: false, // ✅ bật/tắt banner fixed bottom
     clickUrl: "https://154.82.109.170/1825720.html", // link khi click banner
     gifUrl: "https://ads.starzd.com/i9z5.gif", // ảnh/gif banner
     zIndex: 999998,
